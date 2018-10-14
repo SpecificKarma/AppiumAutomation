@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bfbaee3-2074-41e3-9c21-375af4ebc38c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testResources/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testResources/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testResources/PageResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tests/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tests/VideoEditorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/views/AddPhotosAndVideos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/views/EditVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/views/FindMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/views/ShareVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/views/TabBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/TestSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com.lomotif.android_261_2.2.14.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/testMedia/_A_JPG.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/testMedia/_B_15.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/TestSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com.lomotif.android_261_2.2.14.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/testMedia/_A_JPG.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/testMedia/_B_15.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/testResources/Alerts.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/testResources/Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/testResources/PageResources.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/tests/BaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/tests/VideoEditorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/views/AddPhotosAndVideos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/views/EditVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/views/FindMusic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/views/ShareVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/views/TabBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -88,6 +54,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="58" />
+          <entry key="gitignore" value="8" />
           <entry key="java" value="3531" />
           <entry key="xml" value="21" />
         </counts>
@@ -95,7 +62,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="3531" />
-          <entry key="PLAIN_TEXT" value="58" />
+          <entry key="PLAIN_TEXT" value="66" />
           <entry key="XML" value="21" />
         </counts>
       </usages-collector>
@@ -239,6 +206,7 @@
         <option value="$PROJECT_DIR$/src/main/java/views/EditVideo.java" />
         <option value="$PROJECT_DIR$/src/main/java/tests/VideoEditorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/testResources/Alerts.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -349,7 +317,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539557033880" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539557591486" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -524,7 +492,7 @@
       <workItem from="1538971524115" duration="685000" />
       <workItem from="1539367537770" duration="3443000" />
       <workItem from="1539491445356" duration="3144000" />
-      <workItem from="1539556382843" duration="650000" />
+      <workItem from="1539556382843" duration="1147000" />
     </task>
     <servers />
   </component>
@@ -561,7 +529,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107688000" />
+    <option name="totallyTimeSpent" value="108185000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -574,9 +542,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29104477" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29104477" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -591,7 +558,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30368763" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30368763" />
       <window_info anchor="bottom" id="Docker" order="9" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3286334" />
